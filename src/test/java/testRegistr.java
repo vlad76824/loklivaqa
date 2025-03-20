@@ -129,3 +129,9 @@ public class testRegistr {
         }
     }
 }
+
+
+
+//first_name.sendKeys("TestUser");first_name.sendKeys("TestUser");first_name.sendKeys("TestUser");first_name.sendKeys("TestUser");first_name.sendKeys("TestUser");git commit -m "Описание изменений"
+
+
